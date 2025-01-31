@@ -9,3 +9,4 @@ After that the game starts just as a normal game of chess would. If it's your tu
 
 The game ends, when on players king is taken out. This is not currently implemented though.
 
+If your coming from the link in TMS, don't mind the perfectly annotated and readable code, it has gotten better over the years :D... 
